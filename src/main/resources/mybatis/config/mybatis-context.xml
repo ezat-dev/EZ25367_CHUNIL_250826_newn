@@ -1,18 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE configuration
-  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
-  "http://mybatis.org/dtd/mybatis-3-config.dtd">
-<configuration>
-<typeAliases>
-	<package name="com.geomet.domain"/>
-</typeAliases>
-  <mappers>
-  	<mapper resource="mybatis/mapper/users.xml"/>
-  	<mapper resource="mybatis/mapper/corrStatus.xml"/>
-  	<mapper resource="mybatis/mapper/condition.xml"/>
-  	<mapper resource="mybatis/mapper/quality.xml"/>
-  	<mapper resource="mybatis/mapper/machine.xml"/>
-  	<mapper resource="mybatis/mapper/temp.xml"/>
-  	<mapper resource="mybatis/mapper/work.xml"/>
-  </mappers>
-</configuration>
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bd724ee544214ad24c12565351b96b09fbd32d553549bf32ab57b449905555f
+size 950
